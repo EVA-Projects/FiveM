@@ -1,0 +1,18 @@
+Locales ['en'] = {
+	['input'] = 'Pulsa ~INPUT_PICKUP~ para oferir drogas',
+	['reject'] = 'Ha ~r~rechazado~s~ tu oferta',
+	['no_more_drugs'] = '~r~Ya no tienes mas ~g~drogas!',
+	['too_far_away'] = 'Estas demasiado lejos! Venta ~r~cancelada',
+	['remained'] = 'Quedan~b~ ',
+	['you_have_sold'] = 'Has vendido ',
+	['must_be'] = 'Tiene que ser minimo ~b~ ',
+	['to_sell_drugs'] = ' ~w~vender ~g~drogas!',
+	['weed_pooch'] = ' pooch of ~g~weed~s~ for~r~ ',
+	['meth_pooch'] = ' pooch of ~g~meth~s~ for~r~ ',
+	['coke_pooch'] = ' pooch of ~g~coke~s~ for~r~ ',
+	['opium_pooch'] = ' bolsa de ~g~opio~s~ por~r~ ',
+	['weed'] = ' ~g~weed~s~ for~r~ ',
+	['meth'] = ' ~g~meth~s~ for~r~ ',
+	['coke'] = ' ~g~coke~s~ for~r~ ',
+	['opium'] = ' ~g~opio~s~ por~r~ ',
+}

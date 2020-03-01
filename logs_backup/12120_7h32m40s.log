@@ -1,0 +1,105 @@
+Creating script environments for _cfx_internal
+Found new resource webadmin in /home/ogp_agent/OGP_User_Files/Servidor_Prueba/alpine/opt/cfx-server/citizen//system_resources//webadmin
+Found new resource monitor in /home/ogp_agent/OGP_User_Files/Servidor_Prueba/alpine/opt/cfx-server/citizen//system_resources//monitor
+Found new resource chat-theme-gtao in /home/ogp_agent/OGP_User_Files/Servidor_Prueba/resources//[gameplay]/chat-theme-gtao
+Found new resource playernames in /home/ogp_agent/OGP_User_Files/Servidor_Prueba/resources//[gameplay]/playernames
+Found new resource chat in /home/ogp_agent/OGP_User_Files/Servidor_Prueba/resources//[gameplay]/chat
+Found new resource runcode in /home/ogp_agent/OGP_User_Files/Servidor_Prueba/resources//[system]/runcode
+Found new resource sessionmanager in /home/ogp_agent/OGP_User_Files/Servidor_Prueba/resources//[system]/sessionmanager
+Found new resource baseevents in /home/ogp_agent/OGP_User_Files/Servidor_Prueba/resources//[system]/baseevents
+Found new resource sessionmanager-rdr3 in /home/ogp_agent/OGP_User_Files/Servidor_Prueba/resources//[system]/sessionmanager-rdr3
+Found new resource rconlog in /home/ogp_agent/OGP_User_Files/Servidor_Prueba/resources//[system]/rconlog
+Found new resource scoreboard in /home/ogp_agent/OGP_User_Files/Servidor_Prueba/resources//[system]/scoreboard
+Found new resource hardcap in /home/ogp_agent/OGP_User_Files/Servidor_Prueba/resources//[system]/hardcap
+Found new resource basic-gamemode in /home/ogp_agent/OGP_User_Files/Servidor_Prueba/resources//[gamemodes]/basic-gamemode
+Found new resource fivem in /home/ogp_agent/OGP_User_Files/Servidor_Prueba/resources//[test]/fivem
+Found new resource example-loadscreen in /home/ogp_agent/OGP_User_Files/Servidor_Prueba/resources//[test]/example-loadscreen
+Found new resource mapmanager in /home/ogp_agent/OGP_User_Files/Servidor_Prueba/resources//[managers]/mapmanager
+Found new resource spawnmanager in /home/ogp_agent/OGP_User_Files/Servidor_Prueba/resources//[managers]/spawnmanager
+Found new resource yarn in /home/ogp_agent/OGP_User_Files/Servidor_Prueba/resources//[system]/[builders]/yarn
+Found new resource webpack in /home/ogp_agent/OGP_User_Files/Servidor_Prueba/resources//[system]/[builders]/webpack
+Found new resource redm-map-one in /home/ogp_agent/OGP_User_Files/Servidor_Prueba/resources//[gamemodes]/[maps]/redm-map-one
+Found new resource fivem-map-skater in /home/ogp_agent/OGP_User_Files/Servidor_Prueba/resources//[gamemodes]/[maps]/fivem-map-skater
+Found new resource fivem-map-hipster in /home/ogp_agent/OGP_User_Files/Servidor_Prueba/resources//[gamemodes]/[maps]/fivem-map-hipster
+Creating script environments for sessionmanager
+Started resource sessionmanager
+Creating script environments for webadmin
+Instantiated instance of script FxWebAdmin.BaseServer.
+Instantiated instance of script FxWebAdmin.HttpServer+HttpServerScript.
+Started resource webadmin
+Creating script environments for mapmanager
+Started resource mapmanager
+Creating script environments for chat
+Started resource chat
+Started resource spawnmanager
+Stopping resource sessionmanager
+Creating script environments for sessionmanager
+Started resource sessionmanager
+Started gametype Freeroam
+Started resource basic-gamemode
+Started resource fivem
+Creating script environments for hardcap
+Started resource hardcap
+Creating script environments for rconlog
+Started resource rconlog
+Started resource scoreboard
+Authenticating server license key...
+Server license key authentication succeeded. Welcome!
+cfx> Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Started map fivem-map-hipster
+Started resource fivem-map-hipster
+[93mAuthenticating with Nucleus...[0m
+server thread hitch warning: timer interval of 907 milliseconds
+[91m        fff                          
+[91m  cccc ff   xx  xx     rr rr    eee  
+[91mcc     ffff   xx       rrr  r ee   e 
+[91mcc     ff     xx   ... rr     eeeee  
+[91m ccccc ff   xx  xx ... rr      eeeee 
+                                     [0m
+[32mAuthenticated with cfx.re Nucleus: [0mhttps://manelms-3y455y.users.cfx.re/
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Connecting: ericm[0m
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress
+Sending heartbeat to https://servers-ingress-live.fivem.net/ingress

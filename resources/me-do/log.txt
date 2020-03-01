@@ -1,0 +1,30 @@
+﻿
+30/09/2019 17:29:33 : rydeR - steam:11000010ae382ec : ~y~[ME]~b~  test 
+30/09/2019 17:29:35 : rydeR - steam:11000010ae382ec : ~y~[ME]~b~  test 
+30/09/2019 17:29:38 : rydeR - steam:11000010ae382ec : ~y~[ME]~b~  test 
+30/09/2019 17:29:40 : eniorJR - steam:110000110a68326 : ~y~[ME]~b~  se fijaria en lo guapo que es enior 
+30/09/2019 17:29:40 : rydeR - steam:11000010ae382ec : ~y~[ME]~b~  test 
+30/09/2019 17:29:52 : eniorJR - steam:110000110a68326 : ~y~[ME]~b~  adsa 
+30/09/2019 17:31:41 : eniorJR - steam:110000110a68326 : ~y~[ME]~b~  adsa 
+30/09/2019 17:33:16 : eniorJR - steam:110000110a68326 : ~y~[ME]~b~  adsa 
+30/09/2019 17:34:56 : eniorJR - steam:110000110a68326 : ~y~[ME]~b~  adsa 
+30/09/2019 17:38:23 : eniorJR - steam:110000110a68326 : ~y~[ME]~b~  adsa 
+30/09/2019 17:38:40 : rydeR - steam:11000010ae382ec : ~y~[ME]~b~  test 
+30/09/2019 17:38:42 : rydeR - steam:11000010ae382ec : ~y~[DO]~r~  test 
+30/09/2019 17:38:50 : eniorJR - steam:110000110a68326 : ~y~[DO]~r~  adsa 
+30/09/2019 21:30:15 : rydeR - steam:11000010ae382ec : ~y~[ME]~b~  test 
+30/09/2019 21:30:16 : rydeR - steam:11000010ae382ec : ~y~[DO]~r~  test 
+02/10/2019 00:45:37 : rydeR - steam:11000010ae382ec : ~y~[ME]~b~  test 
+02/10/2019 00:45:39 : rydeR - steam:11000010ae382ec : ~y~[DO]~r~  test 
+16/10/2019 00:08:38 : rydeR - steam:11000010ae382ec : ~y~[ME]~b~  test 
+16/10/2019 00:08:40 : rydeR - steam:11000010ae382ec : ~y~[DO]~r~  test 
+29/02/2020 17:41:01 : Sunna - steam:11000010a204d6c : ~y~[ME]~b~  aa 
+29/02/2020 17:43:53 : Sunna - steam:11000010a204d6c : ~y~[DO]~r~  ee 
+29/02/2020 17:44:46 : Sunna - steam:11000010a204d6c : ~y~[DO]~r~  ttt 
+29/02/2020 19:28:06 : Sunna - steam:11000010a204d6c : ~y~[ME]~b~  a 
+29/02/2020 19:28:39 : Sunna - steam:11000010a204d6c : ~y~[DO]~r~  
+29/02/2020 19:29:45 : Sunna - steam:11000010a204d6c : ~y~[ME]~b~  a 
+29/02/2020 19:53:21 : Sunna - steam:11000010a204d6c : ~y~[ME]~b~  a 
+29/02/2020 19:57:54 : Sunna - steam:11000010a204d6c : ~y~[ME]~b~  aa 
+29/02/2020 20:59:20 : Sunna - steam:11000010a204d6c : ~y~[ME]~b~  a 
+01/03/2020 13:59:42 : Sunna - steam:11000010a204d6c : ~y~[DO]~r~  A 

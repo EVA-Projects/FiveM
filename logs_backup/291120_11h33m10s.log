@@ -1,0 +1,15 @@
+OGP_HOME_000000002_startup_scr.sh: línea 2: 27390 Violación de segmento  (`core' generado) ./run.sh +exec server.cfg ./run.sh +exec server.cfg
+OGP_HOME_000000002_startup_scr.sh: línea 2: 27398 Violación de segmento  (`core' generado) ./run.sh +exec server.cfg ./run.sh +exec server.cfg
+OGP_HOME_000000002_startup_scr.sh: línea 2: 27414 Violación de segmento  (`core' generado) ./run.sh +exec server.cfg ./run.sh +exec server.cfg
+OGP_HOME_000000002_startup_scr.sh: línea 2: 27435 Violación de segmento  (`core' generado) ./run.sh +exec server.cfg ./run.sh +exec server.cfg
+OGP_HOME_000000002_startup_scr.sh: línea 2: 27452 Violación de segmento  (`core' generado) ./run.sh +exec server.cfg ./run.sh +exec server.cfg
+OGP_HOME_000000002_startup_scr.sh: línea 2: 27469 Violación de segmento  (`core' generado) ./run.sh +exec server.cfg ./run.sh +exec server.cfg
+Server './run.sh +exec server.cfg ./run.sh +exec server.cfg' crashed with exit code 0.  Respawning...
+OGP_HOME_000000002_startup_scr.sh: línea 2: 27491 Violación de segmento  (`core' generado) ./run.sh +exec server.cfg ./run.sh +exec server.cfg
+OGP_HOME_000000002_startup_scr.sh: línea 2: 27510 Violación de segmento  (`core' generado) ./run.sh +exec server.cfg ./run.sh +exec server.cfg
+OGP_HOME_000000002_startup_scr.sh: línea 2: 27518 Violación de segmento  (`core' generado) ./run.sh +exec server.cfg ./run.sh +exec server.cfg
+OGP_HOME_000000002_startup_scr.sh: línea 2: 27526 Violación de segmento  (`core' generado) ./run.sh +exec server.cfg ./run.sh +exec server.cfg
+OGP_HOME_000000002_startup_scr.sh: línea 2: 27533 Violación de segmento  (`core' generado) ./run.sh +exec server.cfg ./run.sh +exec server.cfg
+Server './run.sh +exec server.cfg ./run.sh +exec server.cfg' crashed with exit code 0.  Respawning...
+OGP_HOME_000000002_startup_scr.sh: línea 2: 27590 Violación de segmento  (`core' generado) ./run.sh +exec server.cfg ./run.sh +exec server.cfg
+OGP_HOME_000000002_startup_scr.sh: línea 2: 27697 Violación de segmento  (`core' generado) ./run.sh +exec server.cfg ./run.sh +exec server.cfg

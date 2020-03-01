@@ -1,0 +1,476 @@
+set es_enableCustomData 1
+set mysql_connection_string "server=127.0.0.1;database=gtavrp;userid=eva;password=EVA2020!"
+exec permissions.cfg
+
+# you probably don't want to change these!
+# only change them if you're using a server with multiple network interfaces
+endpoint_add_tcp "0.0.0.0:30120"
+endpoint_add_udp "0.0.0.0:30120"
+
+set steam_webApiKey "B675D0113D6E251B498ABF1562C41BF5"
+
+
+#ESSENTIALMODE
+add_ace resource.essentialmode command.sets allow
+add_ace resource.essentialmode command.add_principal allow
+add_ace resource.essentialmode command.add_ace allow
+set es_defaultDatabase 2
+
+start mapmanager
+start chat
+#start chat-theme-gtao
+start chat-theme-civlifechat
+start RPChat-master
+#start esx_rpchat
+#start civlifechat
+start spawnmanager
+start sessionmanager
+start fivem
+start hardcap
+start rconlog
+#start playernames
+start load7
+start vMenu
+start locksystem
+start deleteveh
+#start frfuel
+start ft_libs
+#start SexySpeedometer
+start NativeUI
+start eup-stream
+start eup-ui
+start cron
+#start discord
+start suptime
+start waypoint
+start watermark
+#start rolesFX
+start pausemenu
+start object-loader
+start object-teleports
+start trew_hud_ui
+start vrp_legacyfuel
+
+#ESSENTIALMODE
+start async
+start mysql-async
+start essentialmode
+start esplugin_mysql
+start es_admin2
+start es_extended
+#start esx_customui
+start coloredhud
+#start Discord_Whitelist
+#start discord_perms
+#start DiscordChatRoles
+#start DiscordTagIDs
+start esx_identity
+
+start pk_propiedades
+start puntos-casa
+start casas
+start motel8bynewb
+
+##############################
+
+start program-casino
+start program-blackjack
+start slotmachine_1
+start SmartTrafficLights
+start me-do
+#start redesigned-hud
+start time_location
+start JF_SeatShuffle
+start peds
+start WeaponOnBack
+start el_business
+start mythic_notify
+start sawu_hookers
+start radio
+start vdk_call
+start esx_addons_gcphone
+start gcphone
+start es_carwash
+start esx_gym
+start radiant_animations
+start afkkick
+start esx_vangelico_robbery
+start esx_carthief
+start zone
+start esx_service
+start esx_documents
+start esx_voice
+start esx_map
+start esx_weaponshop
+start esx_shops
+start calmai
+start esx_basicneeds
+start allcity_deadscreen
+start new_banking
+start esx_status
+start esx_menu_default
+start esx_menu_list
+start esx_menu_dialog
+start esx_optionalneeds
+start instance
+start esx_billing
+start esx_addonaccount
+start esx_addoninventory
+start esx_trunk
+start esx_society
+start esx_datastore
+start esx_migrate
+start esx_vehicleshop
+start esx_vehicleshopvip
+start esx_boatshop
+start esx_boat
+start esx_lscustom
+start skinchanger
+start esx_skin
+start esx_clotheshop
+start esx_license
+start esx_dmvschool
+start esx_sit
+start esx_barbershop
+start esx_property
+start esx_drp_garage
+start esx_criminalrecords
+start esx_celldoors
+start esx_doorstrans
+start esx_drugs
+start esx_selldrugs
+start esx_crafting
+start esx_hospital
+start esx_borrmaskin
+start esx_holdupbank
+start esx_blackmoney
+start esx-carrental
+start esx_hunting
+start pNotify
+start esx_lapdance
+start esx_alpr
+start esx_jb_realtimejailer
+start esx_holdup
+start esx_cruisecontrol
+start esx_animations
+start esx_jobs
+start esx_joblisting
+start esx_ambulancejob
+start esx_policejob
+start esx_mechanicjob
+start esx_tattoos
+start esx_custom_tattoos
+start esx_ktackle
+start esx_scoreboard
+start realisticvehiclefailure
+start replyandreport
+start fingerpoint
+start esx_taxijob
+start enior_vendercoche
+start esx_nightclub
+start esx_east
+#start esx_east2
+#start esx_east3
+#start esx_east4
+start esx_duty
+#start tag_steamid
+start noplayerblips
+start crouch
+start jailer
+start idabove
+start shield
+start BlipsBuilder
+start vehicle-control
+start blurr_shotsfired
+start esx_accessories
+start lux_vehcontrol
+start esx_planting
+start radialmenu
+start esx-kr-vehicle-push
+start core_hideintrunk
+start qalle-wheelchair
+start el_daily_rewards
+start CarryPeople
+
+
+
+##############################
+
+#start sandero
+#start Yacht
+#start rs5lb
+#start macanpd600m
+#start dbs2009
+#start panamera
+#start srt8police
+#start mta
+#start 2015polstang
+#start lspdtru
+#start polf430
+#start polaventa
+#start evoque
+#start yzfr6
+#start r1
+#start wave125i
+#start nsr250r
+#start fmgt
+#start amarok
+#start catalina
+#start maj350
+#start z32
+#start mgt
+#start xclass
+#start wald2018
+#start impala59c
+#start 03ramk
+#start e34
+#start silv86
+#start 69charger
+#start chall70
+#start hs
+#start ambautoes
+#start gsxr
+#start ktmsm
+#start excf250
+#start exc530
+#start hvrod
+#start panigale
+#start dm1200
+#start diavel
+#start hcbr17
+#start goldwing
+#start 16challenger
+#start masseratighibli
+#start 720s
+#start bmwm3
+#start cheroke
+#start srt8
+#start mclaren650s
+#start skyline
+#start audirs3
+#start audirs4
+#start audirs5
+#start audirs6
+#start audirs7
+#start audir8
+#start nissangtr
+#start bcgt
+#start bmwm2
+#start rmodm4gts
+#start bmwi8
+#start priustaxi
+#start 124spider
+#start 4c
+#start giulia
+#start ast
+#start avalk
+#start s8d4
+#start aaq4
+#start tts
+#start bbentayga
+#start x6m
+#start bugatti
+#start chiron17
+#start cats
+#start citroc4
+#start saxovts
+#start f40
+#start raptor2017
+#start fiorino
+#start tempra
+#start mustang
+#start boss429
+#start zl12017
+#start c7
+#start hondacivictr
+#start civicek9rb
+#start dc2
+#start veln
+#start fx50s
+#start cx75
+#start xj
+#start stinger
+#start xbow
+#start huracan
+#start gallardo
+#start urus
+#start delta
+#start lc500
+#start lx570
+#start cortina
+#start evora
+#start quatroporte
+#start levante
+#start rx7
+#start speed3
+#start senna
+#start gls63
+#start amggt
+#start c63amg
+#start johncooper
+#start evox
+#start fairlaydy
+#start astra
+#start 206gti
+#start 205turbo
+#start 208
+#start 5008
+#start cayenne
+#start boxter
+#start carrera
+#start megane
+#start sportrs
+#start wraith
+#start ibiza
+#start karoq
+#start sti
+#start camry
+#start gt86
+#start prius
+#start passat
+#start fusca
+#start touareg
+#start 850r
+#start s60
+#start v60
+#start xc40
+#start superbird
+#start mustang
+#start mustangadmin2
+#start karts
+#start polarteon
+#start 458italia
+#start agera
+#start amgvisiongt
+#start biomeconcept
+#start fenyr
+#start fenzo
+#start lamtmc
+#start mb300sl
+#start bikelete
+#start veneno
+#start demon
+#start charge4
+#start mrbeanmini
+#start panamera
+
+##############################
+
+#start AstonMartinOne77
+#start AstonMartinVanquish
+#start AudiA6
+#start AudiR8
+#start BentleyContinentalGT
+#start BmwM3E30
+#start BugattiChiron
+#start BugattiVeyron
+#start ChevroletCorvetteC7
+#start ChevroletChevelleSS454
+#start DodgeViperSRT
+#start DodgeChargerSRT
+#start FerrariF12
+#start FerrariF40
+#start FerrariF80
+#start FerrariLaFerrari
+#start FordGT2005
+#start FordGT2017
+#start FordMustangGT1965
+#start FordMustangGT2015
+#start FordMustangHoonicorn
+#start HondaCivicTypeR
+#start HondaNSX
+#start KoenigseggAgeraR
+#start LamborghiniGallardoLP560
+#start MazdaRX7Veilside
+#start McLarenF1
+#start McLarenP1
+#start MercedesC63
+#start MercedesG65
+#start MercedesSLS
+#start MiniCooperS
+#start MitsubishiEvoIX
+#start Nissan370Z
+#start NissanGTR
+#start NissanSkyline
+#start Porsche918Spyder
+#start PorscheCayenneTurboS
+#start PorscheGT2RS
+#start RollsRoycePhantom
+#start ShelbyGT500
+#start SubaruWRXSTI
+#start ToyotaSupraJZA80
+
+##############################
+
+start fd_maps
+#start fax-logo
+start bob74_ipl
+#start bosque
+start Dealership
+#start casino
+#start legionsquare
+start pugslegion
+#start MPM
+#start lafa2k_modernhouse
+start lafa2k_yakuza
+start seatbeltIndicator
+#start minimalmansion
+#start opendoor_madrazo
+#start tradinghouse
+start traffic_density
+#start npc_control
+#start landactreservoir
+start texturaconcesio
+#start nw_bahamaMama
+#start garaje
+#start beachhouse
+#start garajepalma
+#start DBGTaxiOverhaul
+
+##############################
+
+add_ace resource.suptime command.sets allow
+
+##############################
+sv_scriptHookAllowed 1
+
+rcon_password "m91psj5n"
+
+sv_hostname "FiveM"
+add_ace group.superadmin allow
+add_ace group.admin allow
+add_ace group.moderator allow
+
+#ryder
+add_principal identifier.steam:11000010ae382ec group.admin
+
+#Sunna
+add_principal identifier.steam:11000010a204d6c group.superadmin
+
+
+sets tags "roleplay, español, guardiacivil, ems, coches reales, coches personalizados, vip, españa, rp"
+
+# nested configs!
+#exec server_internal.cfg
+
+# loading a server icon (96x96 PNG file)
+#load_server_icon ene.png
+
+# convars for use from script
+set temp_convar ""
+
+# disable announcing? clear out the master by uncommenting this
+#sv_master1 "
+
+# want to only allow players authenticated with a third-party provider like Steam?
+#sv_authMaxVariance 1
+#sv_authMinTrust 5
+
+# remove the # to hide player endpoints in external log output
+#sv_endpointprivacy true
+
+# server slots limit (must be between 1 and 64)
+sv_maxclients 64
+
+# license key for server (https://keymaster.fivem.net)
+sv_licenseKey kdz3lj81g6ulw9me0offbnjgvjudj481

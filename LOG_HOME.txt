@@ -1,0 +1,855 @@
+Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+Creating script environments for _cfx_internal
+Found new resource DiscordTagIDs in /home/ogp_agent/OGP_User_Files/FiveM/resources//DiscordTagIDs
+Found new resource radio in /home/ogp_agent/OGP_User_Files/FiveM/resources//radio
+Found new resource calmai in /home/ogp_agent/OGP_User_Files/FiveM/resources//calmai
+Found new resource el_business in /home/ogp_agent/OGP_User_Files/FiveM/resources//el_business
+Found new resource radiant_animations in /home/ogp_agent/OGP_User_Files/FiveM/resources//radiant_animations
+Found new resource frfuel in /home/ogp_agent/OGP_User_Files/FiveM/resources//frfuel
+Found new resource afkkick in /home/ogp_agent/OGP_User_Files/FiveM/resources//afkkick
+Found new resource staff in /home/ogp_agent/OGP_User_Files/FiveM/resources//staff
+Found new resource esx_addons_gcphone in /home/ogp_agent/OGP_User_Files/FiveM/resources//esx_addons_gcphone
+Found new resource essentialmode in /home/ogp_agent/OGP_User_Files/FiveM/resources//essentialmode
+Found new resource civlifechat in /home/ogp_agent/OGP_User_Files/FiveM/resources//civlifechat
+Found new resource WeaponOnBack in /home/ogp_agent/OGP_User_Files/FiveM/resources//WeaponOnBack
+Found new resource tag_steamid in /home/ogp_agent/OGP_User_Files/FiveM/resources//tag_steamid
+Found new resource runcode in /home/ogp_agent/OGP_User_Files/FiveM/resources//runcode
+Found new resource fivem in /home/ogp_agent/OGP_User_Files/FiveM/resources//fivem
+Found new resource SmartTrafficLights in /home/ogp_agent/OGP_User_Files/FiveM/resources//SmartTrafficLights
+Found new resource gcphone in /home/ogp_agent/OGP_User_Files/FiveM/resources//gcphone
+Found new resource crouch in /home/ogp_agent/OGP_User_Files/FiveM/resources//crouch
+Found new resource peds in /home/ogp_agent/OGP_User_Files/FiveM/resources//peds
+Found new resource devProp in /home/ogp_agent/OGP_User_Files/FiveM/resources//devProp
+Found new resource suptime in /home/ogp_agent/OGP_User_Files/FiveM/resources//suptime
+Found new resource replyandreport in /home/ogp_agent/OGP_User_Files/FiveM/resources//replyandreport
+Found new resource coloredhud in /home/ogp_agent/OGP_User_Files/FiveM/resources//coloredhud
+Found new resource vdk_call in /home/ogp_agent/OGP_User_Files/FiveM/resources//vdk_call
+Found new resource pk_propiedades in /home/ogp_agent/OGP_User_Files/FiveM/resources//pk_propiedades
+Found new resource zone in /home/ogp_agent/OGP_User_Files/FiveM/resources//zone
+Found new resource CarryPeople in /home/ogp_agent/OGP_User_Files/FiveM/resources//CarryPeople
+Found new resource fivem-awesome1501 in /home/ogp_agent/OGP_User_Files/FiveM/resources//fivem-awesome1501
+Found new resource shield in /home/ogp_agent/OGP_User_Files/FiveM/resources//shield
+Found new resource idabove in /home/ogp_agent/OGP_User_Files/FiveM/resources//idabove
+Found new resource motel8bynewb in /home/ogp_agent/OGP_User_Files/FiveM/resources//motel8bynewb
+Found new resource fax-logo in /home/ogp_agent/OGP_User_Files/FiveM/resources//fax-logo
+Found new resource traffic_density in /home/ogp_agent/OGP_User_Files/FiveM/resources//traffic_density
+Found new resource vVoice in /home/ogp_agent/OGP_User_Files/FiveM/resources//vVoice
+Found new resource trew_hud_ui in /home/ogp_agent/OGP_User_Files/FiveM/resources//trew_hud_ui
+Found new resource vrp_legacyfuel in /home/ogp_agent/OGP_User_Files/FiveM/resources//vrp_legacyfuel
+Found new resource lux_vehcontrol in /home/ogp_agent/OGP_User_Files/FiveM/resources//lux_vehcontrol
+Found new resource fingerpoint in /home/ogp_agent/OGP_User_Files/FiveM/resources//fingerpoint
+Found new resource vMenu in /home/ogp_agent/OGP_User_Files/FiveM/resources//vMenu
+Found new resource noplayerblips in /home/ogp_agent/OGP_User_Files/FiveM/resources//noplayerblips
+Found new resource casas in /home/ogp_agent/OGP_User_Files/FiveM/resources//casas
+Found new resource time_location in /home/ogp_agent/OGP_User_Files/FiveM/resources//time_location
+Found new resource Discord_Whitelist in /home/ogp_agent/OGP_User_Files/FiveM/resources//Discord_Whitelist
+Found new resource el_daily_rewards in /home/ogp_agent/OGP_User_Files/FiveM/resources//el_daily_rewards
+Found new resource object-loader in /home/ogp_agent/OGP_User_Files/FiveM/resources//object-loader
+Found new resource BlipsBuilder in /home/ogp_agent/OGP_User_Files/FiveM/resources//BlipsBuilder
+Found new resource jsfour-atm in /home/ogp_agent/OGP_User_Files/FiveM/resources//jsfour-atm
+Found new resource realisticvehiclefailure in /home/ogp_agent/OGP_User_Files/FiveM/resources//realisticvehiclefailure
+Found new resource mythic_notify in /home/ogp_agent/OGP_User_Files/FiveM/resources//mythic_notify
+Found new resource async in /home/ogp_agent/OGP_User_Files/FiveM/resources//async
+Found new resource object-teleports in /home/ogp_agent/OGP_User_Files/FiveM/resources//object-teleports
+Found new resource watermark in /home/ogp_agent/OGP_User_Files/FiveM/resources//watermark
+Found new resource redesigned-hud in /home/ogp_agent/OGP_User_Files/FiveM/resources//redesigned-hud
+Found new resource rolesFX in /home/ogp_agent/OGP_User_Files/FiveM/resources//rolesFX
+Found new resource blurr_shotsfired in /home/ogp_agent/OGP_User_Files/FiveM/resources//blurr_shotsfired
+Found new resource discord in /home/ogp_agent/OGP_User_Files/FiveM/resources//discord
+Found new resource pausemenu in /home/ogp_agent/OGP_User_Files/FiveM/resources//pausemenu
+Found new resource whitelist in /home/ogp_agent/OGP_User_Files/FiveM/resources//whitelist
+Found new resource esplugin_mysql in /home/ogp_agent/OGP_User_Files/FiveM/resources//esplugin_mysql
+Found new resource jailer in /home/ogp_agent/OGP_User_Files/FiveM/resources//jailer
+Found new resource seatbeltIndicator in /home/ogp_agent/OGP_User_Files/FiveM/resources//seatbeltIndicator
+Found new resource vehicle-control in /home/ogp_agent/OGP_User_Files/FiveM/resources//vehicle-control
+Found new resource DiscordChatRoles in /home/ogp_agent/OGP_User_Files/FiveM/resources//DiscordChatRoles
+Found new resource fivem-map-skater in /home/ogp_agent/OGP_User_Files/FiveM/resources//fivem-map-skater
+Found new resource qalle-wheelchair in /home/ogp_agent/OGP_User_Files/FiveM/resources//qalle-wheelchair
+Found new resource deleteveh in /home/ogp_agent/OGP_User_Files/FiveM/resources//deleteveh
+Found new resource me-do in /home/ogp_agent/OGP_User_Files/FiveM/resources//me-do
+Found new resource locksystem in /home/ogp_agent/OGP_User_Files/FiveM/resources//locksystem
+Found new resource SexySpeedometer in /home/ogp_agent/OGP_User_Files/FiveM/resources//SexySpeedometer
+Found new resource discord_perms in /home/ogp_agent/OGP_User_Files/FiveM/resources//discord_perms
+Found new resource sawu_hookers in /home/ogp_agent/OGP_User_Files/FiveM/resources//sawu_hookers
+Found new resource fivem-map-hipster in /home/ogp_agent/OGP_User_Files/FiveM/resources//fivem-map-hipster
+Found new resource ft_libs in /home/ogp_agent/OGP_User_Files/FiveM/resources//ft_libs
+Found new resource npc_control in /home/ogp_agent/OGP_User_Files/FiveM/resources//npc_control
+Found new resource JF_SeatShuffle in /home/ogp_agent/OGP_User_Files/FiveM/resources//JF_SeatShuffle
+Found new resource waypoint in /home/ogp_agent/OGP_User_Files/FiveM/resources//waypoint
+Found new resource cron in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cron]/cron
+Found new resource chat-theme-gtao in /home/ogp_agent/OGP_User_Files/FiveM/resources//[gameplay]/chat-theme-gtao
+Found new resource obituary-deaths in /home/ogp_agent/OGP_User_Files/FiveM/resources//[gameplay]/obituary-deaths
+Found new resource playernames in /home/ogp_agent/OGP_User_Files/FiveM/resources//[gameplay]/playernames
+Found new resource obituary in /home/ogp_agent/OGP_User_Files/FiveM/resources//[gameplay]/obituary
+Found new resource chat in /home/ogp_agent/OGP_User_Files/FiveM/resources//[gameplay]/chat
+Found new resource RPChat-master in /home/ogp_agent/OGP_User_Files/FiveM/resources//[gameplay]/RPChat-master
+Found new resource chatbasic in /home/ogp_agent/OGP_User_Files/FiveM/resources//[gameplay]/chatbasic
+Found new resource channelfeed in /home/ogp_agent/OGP_User_Files/FiveM/resources//[gameplay]/channelfeed
+Found new resource irc in /home/ogp_agent/OGP_User_Files/FiveM/resources//[gameplay]/irc
+Found new resource chat1 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[system]/chat1
+Found new resource sessionmanager in /home/ogp_agent/OGP_User_Files/FiveM/resources//[system]/sessionmanager
+Found new resource baseevents in /home/ogp_agent/OGP_User_Files/FiveM/resources//[system]/baseevents
+Found new resource rconlog in /home/ogp_agent/OGP_User_Files/FiveM/resources//[system]/rconlog
+Found new resource scoreboard in /home/ogp_agent/OGP_User_Files/FiveM/resources//[system]/scoreboard
+Found new resource hardcap in /home/ogp_agent/OGP_User_Files/FiveM/resources//[system]/hardcap
+Found new resource spawnmanager in /home/ogp_agent/OGP_User_Files/FiveM/resources//[system]/spawnmanager
+Found new resource casino in /home/ogp_agent/OGP_User_Files/FiveM/resources//[maps]/casino
+Found new resource fd_maps in /home/ogp_agent/OGP_User_Files/FiveM/resources//[maps]/fd_maps
+Found new resource MPM in /home/ogp_agent/OGP_User_Files/FiveM/resources//[maps]/MPM
+Found new resource beachhouse in /home/ogp_agent/OGP_User_Files/FiveM/resources//[maps]/beachhouse
+Found new resource pugslegion in /home/ogp_agent/OGP_User_Files/FiveM/resources//[maps]/pugslegion
+Found new resource legionsquare in /home/ogp_agent/OGP_User_Files/FiveM/resources//[maps]/legionsquare
+Found new resource Dealership in /home/ogp_agent/OGP_User_Files/FiveM/resources//[maps]/Dealership
+Found new resource postalmap in /home/ogp_agent/OGP_User_Files/FiveM/resources//[maps]/postalmap
+Resource loading for postalmap failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/FiveM/resources//[maps]/postalmap/__resource.lua.
+Found new resource landactreservoir in /home/ogp_agent/OGP_User_Files/FiveM/resources//[maps]/landactreservoir
+Found new resource DBGTaxiOverhaul in /home/ogp_agent/OGP_User_Files/FiveM/resources//[maps]/DBGTaxiOverhaul
+Found new resource lafa2k_yakuza in /home/ogp_agent/OGP_User_Files/FiveM/resources//[maps]/lafa2k_yakuza
+Found new resource pacific_bank in /home/ogp_agent/OGP_User_Files/FiveM/resources//[maps]/pacific_bank
+Found new resource lafa2k_modernhouse in /home/ogp_agent/OGP_User_Files/FiveM/resources//[maps]/lafa2k_modernhouse
+Found new resource tradinghouse in /home/ogp_agent/OGP_User_Files/FiveM/resources//[maps]/tradinghouse
+Found new resource garajepalma in /home/ogp_agent/OGP_User_Files/FiveM/resources//[maps]/garajepalma
+Found new resource bosque in /home/ogp_agent/OGP_User_Files/FiveM/resources//[maps]/bosque
+Found new resource garaje in /home/ogp_agent/OGP_User_Files/FiveM/resources//[maps]/garaje
+Found new resource policemap in /home/ogp_agent/OGP_User_Files/FiveM/resources//[maps]/policemap
+Found new resource minimalmansion in /home/ogp_agent/OGP_User_Files/FiveM/resources//[maps]/minimalmansion
+Found new resource nw_bahamaMama in /home/ogp_agent/OGP_User_Files/FiveM/resources//[maps]/nw_bahamaMama
+Found new resource opendoor_madrazo in /home/ogp_agent/OGP_User_Files/FiveM/resources//[maps]/opendoor_madrazo
+Found new resource texturaconcesio in /home/ogp_agent/OGP_User_Files/FiveM/resources//[maps]/texturaconcesio
+Found new resource bob74_ipl in /home/ogp_agent/OGP_User_Files/FiveM/resources//[maps]/bob74_ipl
+Found new resource race in /home/ogp_agent/OGP_User_Files/FiveM/resources//[gamemodes]/race
+Found new resource race-test in /home/ogp_agent/OGP_User_Files/FiveM/resources//[gamemodes]/race-test
+Found new resource eup-stream in /home/ogp_agent/OGP_User_Files/FiveM/resources//[uniform]/eup-stream
+Found new resource NativeUI in /home/ogp_agent/OGP_User_Files/FiveM/resources//[uniform]/NativeUI
+Found new resource cheroke in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/cheroke
+Found new resource bmwm2 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/bmwm2
+Found new resource c63amg in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/c63amg
+Found new resource sabre in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/sabre
+Resource loading for sabre failed:
+Could not open resource metadata file /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/sabre/__resource.lua.
+Found new resource wald2018 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/wald2018
+Found new resource bmwm5 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/bmwm5
+Found new resource bmwi8_2 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/bmwi8_2
+Found new resource mstng65 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/mstng65
+Found new resource nissangtr in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/nissangtr
+Found new resource 5008 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/5008
+Found new resource x6m in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/x6m
+Found new resource evora in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/evora
+Found new resource saxovts in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/saxovts
+Found new resource skyline in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/skyline
+Found new resource polarteon in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/polarteon
+Found new resource s8d4 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/s8d4
+Found new resource veneno in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/veneno
+Found new resource audirs3 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/audirs3
+Found new resource impala59c in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/impala59c
+Found new resource chall70 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/chall70
+Found new resource xbow in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/xbow
+Found new resource bmwm3 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/bmwm3
+Found new resource gls63 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/gls63
+Found new resource 720s in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/720s
+Found new resource brabus in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/brabus
+Found new resource 458italia in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/458italia
+Found new resource citroc4 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/citroc4
+Found new resource boss429 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/boss429
+Found new resource cats in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/cats
+Found new resource charge4 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/charge4
+Found new resource karoq in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/karoq
+Found new resource silver67 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/silver67
+Found new resource 205turbo in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/205turbo
+Found new resource sportage in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/sportage
+Found new resource 206gti in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/206gti
+Found new resource lw458s in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/lw458s
+Found new resource fenyr in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/fenyr
+Found new resource urus in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/urus
+Found new resource leon in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/leon
+Found new resource 124spider in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/124spider
+Found new resource hvrod in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/hvrod
+Found new resource teslax in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/teslax
+Found new resource demon in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/demon
+Found new resource z32 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/z32
+Found new resource levante in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/levante
+Found new resource sandero in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/sandero
+Found new resource astra in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/astra
+Found new resource maj350 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/maj350
+Found new resource bcgt in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/bcgt
+Found new resource e34 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/e34
+Found new resource prius in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/prius
+Found new resource rx7 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/rx7
+Found new resource ast in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/ast
+Found new resource priustaxi in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/priustaxi
+Found new resource q30 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/q30
+Found new resource 4c in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/4c
+Found new resource lx570 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/lx570
+Found new resource hs in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/hs
+Found new resource silv86 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/silv86
+Found new resource giulia in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/giulia
+Found new resource johncooper in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/johncooper
+Found new resource xj in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/xj
+Found new resource hondacivictr in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/hondacivictr
+Found new resource amgvisiongt in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/amgvisiongt
+Found new resource sti in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/sti
+Found new resource dm1200 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/dm1200
+Found new resource senna in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/senna
+Found new resource c7 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/c7
+Found new resource srt8 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/srt8
+Found new resource boxter in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/boxter
+Found new resource wraith in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/wraith
+Found new resource gsxr in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/gsxr
+Found new resource gallardo in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/gallardo
+Found new resource r1 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/r1
+Found new resource audir8 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/audir8
+Found new resource megane in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/megane
+Found new resource polf430 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/polf430
+Found new resource v60 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/v60
+Found new resource bmwi8 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/bmwi8
+Found new resource goldwing in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/goldwing
+Found new resource zl12017 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/zl12017
+Found new resource delta in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/delta
+Found new resource hcbr17 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/hcbr17
+Found new resource fairlaydy in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/fairlaydy
+Found new resource dbs2009 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/dbs2009
+Found new resource s60 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/s60
+Found new resource mgt in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/mgt
+Found new resource mustangnew in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/mustangnew
+Found new resource rs5lb in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/rs5lb
+Found new resource touareg in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/touareg
+Found new resource camry in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/camry
+Found new resource biomeconcept in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/biomeconcept
+Found new resource rmodm4gts in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/rmodm4gts
+Found new resource focusrs in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/focusrs
+Found new resource 2015polstang in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/2015polstang
+Found new resource exc530 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/exc530
+Found new resource fusca in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/fusca
+Found new resource yzfr6 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/yzfr6
+Found new resource bikelete in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/bikelete
+Found new resource cortina in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/cortina
+Found new resource superb in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/superb
+Found new resource mustang in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/mustang
+Found new resource polrevent in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/polrevent
+Found new resource mrbeanmini in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/mrbeanmini
+Found new resource lspdtru in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/lspdtru
+Found new resource bbentayga in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/bbentayga
+Found new resource polaventa in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/polaventa
+Found new resource gt86 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/gt86
+Found new resource hkona in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/hkona
+Found new resource xc40 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/xc40
+Found new resource ben17 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/ben17
+Found new resource cayenne in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/cayenne
+Found new resource masseratighibli in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/masseratighibli
+Found new resource mercc63 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/mercc63
+Found new resource fx50s in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/fx50s
+Found new resource quatroporte in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/quatroporte
+Found new resource f40 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/f40
+Found new resource audirs7 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/audirs7
+Found new resource 16challenger in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/16challenger
+Found new resource Yacht in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/Yacht
+Found new resource bmwm6 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/bmwm6
+Found new resource stinger in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/stinger
+Found new resource mb300sl in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/mb300sl
+Found new resource ambautoes in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/ambautoes
+Found new resource avalk in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/avalk
+Found new resource panamera in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/panamera
+Found new resource audirs6 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/audirs6
+Found new resource 69charger in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/69charger
+Found new resource 850r in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/850r
+Found new resource lc500 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/lc500
+Found new resource fiorino in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/fiorino
+Found new resource santafe in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/santafe
+Found new resource amarok in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/amarok
+Found new resource evoque in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/evoque
+Found new resource wave125i in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/wave125i
+Found new resource 03ramk in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/03ramk
+Found new resource mclaren650s in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/mclaren650s
+Found new resource passat in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/passat
+Found new resource catalina in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/catalina
+Found new resource bugatti in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/bugatti
+Found new resource aaq4 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/aaq4
+Found new resource tempra in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/tempra
+Found new resource dc2 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/dc2
+Found new resource excf250 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/excf250
+Found new resource audirs5 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/audirs5
+Found new resource thema in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/thema
+Found new resource fmgt in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/fmgt
+Found new resource raptor2017 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/raptor2017
+Found new resource diavel in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/diavel
+Found new resource macanpd600m in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/macanpd600m
+Found new resource karts in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/karts
+Found new resource huracan in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/huracan
+Found new resource mokka in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/mokka
+Found new resource vwtouregr50 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/vwtouregr50
+Found new resource audirs4 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/audirs4
+Found new resource carrera in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/carrera
+Found new resource chiron17 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/chiron17
+Found new resource superbird in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/superbird
+Found new resource mta in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/mta
+Found new resource xclass in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/xclass
+Found new resource srt8police in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/srt8police
+Found new resource mercedesg65 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/mercedesg65
+Found new resource sportrs in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/sportrs
+Found new resource panigale in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/panigale
+Found new resource supra2 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/supra2
+Found new resource ibiza in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/ibiza
+Found new resource tts in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/tts
+Found new resource evox in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/evox
+Found new resource cx75 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/cx75
+Found new resource lamtmc in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/lamtmc
+Found new resource civicek9rb in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/civicek9rb
+Found new resource fenzo in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/fenzo
+Found new resource nsr250r in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/nsr250r
+Found new resource ktmsm in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/ktmsm
+Found new resource mustangadmin2 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/mustangadmin2
+Found new resource 208 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/208
+Found new resource veln in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/veln
+Found new resource agera in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/agera
+Found new resource amggt in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/amggt
+Found new resource speed3 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cochesreales]/speed3
+Found new resource load5 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[loadscreen]/load5
+Found new resource load in /home/ogp_agent/OGP_User_Files/FiveM/resources//[loadscreen]/load
+Found new resource load2 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[loadscreen]/load2
+Found new resource load3 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[loadscreen]/load3
+Found new resource load4 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[loadscreen]/load4
+Found new resource load7 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[loadscreen]/load7
+Found new resource load6 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[loadscreen]/load6
+Found new resource es_extendedmid in /home/ogp_agent/OGP_User_Files/FiveM/resources//[essential]/es_extendedmid
+Found new resource es_carwash in /home/ogp_agent/OGP_User_Files/FiveM/resources//[essential]/es_carwash
+Found new resource es_ui in /home/ogp_agent/OGP_User_Files/FiveM/resources//[essential]/es_ui
+Found new resource es_admin2 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[essential]/es_admin2
+Found new resource es_extended in /home/ogp_agent/OGP_User_Files/FiveM/resources//[essential]/es_extended
+Found new resource mysql-async in /home/ogp_agent/OGP_User_Files/FiveM/resources//[essential]/mysql-async
+Found new resource eup-ui in /home/ogp_agent/OGP_User_Files/FiveM/resources//[menu]/eup-ui
+Found new resource keks in /home/ogp_agent/OGP_User_Files/FiveM/resources//[test]/keks
+Found new resource betaguns in /home/ogp_agent/OGP_User_Files/FiveM/resources//[test]/betaguns
+Found new resource gameInit in /home/ogp_agent/OGP_User_Files/FiveM/resources//[test]/gameInit
+Found new resource program-blackjack in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cas]/program-blackjack
+Found new resource slotmachine_1 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cas]/slotmachine_1
+Found new resource program-casino in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cas]/program-casino
+Found new resource McLarenF1 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/McLarenF1
+Found new resource FerrariLaFerrari in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/FerrariLaFerrari
+Found new resource FerrariF12 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/FerrariF12
+Found new resource MitsubishiEvoIX in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/MitsubishiEvoIX
+Found new resource KoenigseggAgeraR in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/KoenigseggAgeraR
+Found new resource HondaCivicTypeR in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/HondaCivicTypeR
+Found new resource PorscheCayenneTurboS in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/PorscheCayenneTurboS
+Found new resource SubaruWRXSTI in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/SubaruWRXSTI
+Found new resource ShelbyGT500 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/ShelbyGT500
+Found new resource McLarenP1 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/McLarenP1
+Found new resource FordGT2017 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/FordGT2017
+Found new resource Porsche918Spyder in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/Porsche918Spyder
+Found new resource AstonMartinVanquish in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/AstonMartinVanquish
+Found new resource FordMustangGT1965 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/FordMustangGT1965
+Found new resource ChevroletChevelleSS454 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/ChevroletChevelleSS454
+Found new resource FordGT2005 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/FordGT2005
+Found new resource NissanSkyline in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/NissanSkyline
+Found new resource FordMustangHoonicorn in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/FordMustangHoonicorn
+Found new resource MercedesSLS in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/MercedesSLS
+Found new resource DodgeViperSRT in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/DodgeViperSRT
+Found new resource BentleyContinentalGT in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/BentleyContinentalGT
+Found new resource LamborghiniGallardoLP560 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/LamborghiniGallardoLP560
+Found new resource HondaNSX in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/HondaNSX
+Found new resource BugattiChiron in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/BugattiChiron
+Found new resource RollsRoycePhantom in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/RollsRoycePhantom
+Found new resource BmwM3E30 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/BmwM3E30
+Found new resource MiniCooperS in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/MiniCooperS
+Found new resource FerrariF40 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/FerrariF40
+Found new resource FordMustangGT2015 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/FordMustangGT2015
+Found new resource Nissan370Z in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/Nissan370Z
+Found new resource MercedesC63 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/MercedesC63
+Found new resource ChevroletCorvetteC7 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/ChevroletCorvetteC7
+Found new resource FerrariF80 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/FerrariF80
+Found new resource DodgeChargerSRT in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/DodgeChargerSRT
+Found new resource AstonMartinOne77 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/AstonMartinOne77
+Found new resource NissanGTR in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/NissanGTR
+Found new resource AudiA6 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/AudiA6
+Found new resource BugattiVeyron in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/BugattiVeyron
+Found new resource MazdaRX7Veilside in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/MazdaRX7Veilside
+Found new resource ToyotaSupraJZA80 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/ToyotaSupraJZA80
+Found new resource AudiR8 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/AudiR8
+Found new resource MercedesG65 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/MercedesG65
+Found new resource PorscheGT2RS in /home/ogp_agent/OGP_User_Files/FiveM/resources//[cars]/PorscheGT2RS
+Found new resource mapmanager in /home/ogp_agent/OGP_User_Files/FiveM/resources//[managers]/mapmanager
+Found new resource esx_east4 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_east4
+Found new resource esx_teleports in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_teleports
+Found new resource esx_radars in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_radars
+Found new resource esx_legacyfuel in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_legacyfuel
+Found new resource esx_east2 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_east2
+Found new resource esx_blackmoney in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_blackmoney
+Found new resource enior_vendercoche in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/enior_vendercoche
+Found new resource esx_jk_jobOLD in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_jk_jobOLD
+Found new resource esx_service in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_service
+Found new resource esx_policejob in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_policejob
+Found new resource radialmenu in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/radialmenu
+Found new resource esx_addoninventory in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_addoninventory
+Found new resource esx_celldoors in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_celldoors
+Found new resource esx_drp_garage in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_drp_garage
+Found new resource esx_scoreboard in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_scoreboard
+Found new resource esx_taxijob in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_taxijob
+Found new resource esx_addonaccount in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_addonaccount
+Found new resource esx_tattoos in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_tattoos
+Found new resource esx_criminalrecords in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_criminalrecords
+Found new resource esx_lapdance in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_lapdance
+Found new resource new_banking in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/new_banking
+Found new resource esx_voice in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_voice
+Found new resource esx_accessories in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_accessories
+Found new resource esx_ambulancejob in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_ambulancejob
+Found new resource esx_status in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_status
+Found new resource esx_property in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_property
+Found new resource esx_shops in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_shops
+Found new resource esx_alpr in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_alpr
+Found new resource esx_nightclub in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_nightclub
+Found new resource esx_gym in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_gym
+Found new resource esx_doorstrans in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_doorstrans
+Found new resource esx_barbershop in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_barbershop
+Found new resource esx_east3 in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_east3
+Found new resource esx_vangelico_robbery in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_vangelico_robbery
+Found new resource esx_rpchatOLD in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_rpchatOLD
+Found new resource esx_east in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_east
+Found new resource esx_supermarket in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_supermarket
+Found new resource esx_weaponshop in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_weaponshop
+Found new resource esx_dmvschool in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_dmvschool
+Found new resource esx_borrmaskin in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_borrmaskin
+Found new resource chat-theme-civlifechat in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/chat-theme-civlifechat
+Found new resource core_hideintrunk in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/core_hideintrunk
+Found new resource esx_hunting in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_hunting
+Found new resource esx_holdup in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_holdup
+Found new resource esx_holdupbank in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_holdupbank
+Found new resource allcity_deadscreen in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/allcity_deadscreen
+Found new resource esx_menu_default in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_menu_default
+Found new resource esx_customui in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_customui
+Found new resource esx_joblisting in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_joblisting
+Found new resource esx_basicneeds in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_basicneeds
+Found new resource esx_documents in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_documents
+Found new resource esx_dmvschoolOLD in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_dmvschoolOLD
+Found new resource esx_rpchat in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_rpchat
+Found new resource esx_planting in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_planting
+Found new resource esx_hospital in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_hospital
+Found new resource esx_migrate in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_migrate
+Found new resource pNotify in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/pNotify
+Found new resource esx_license in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_license
+Found new resource esx_gangjob in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_gangjob
+Found new resource esx_vehicleshop in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_vehicleshop
+Found new resource esx_selldrugs in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_selldrugs
+Found new resource esx_boatshop in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_boatshop
+Found new resource esx-carrental in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx-carrental
+Found new resource esx_cruisecontrol in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_cruisecontrol
+Found new resource esx_carthief in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_carthief
+Found new resource esx_jb_realtimejailer in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_jb_realtimejailer
+Found new resource esx_trunk in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_trunk
+Found new resource esx_ktackle in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_ktackle
+Found new resource esx_phone in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_phone
+Found new resource esx_lscustom in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_lscustom
+Found new resource esx_menu_defaultOLD in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_menu_defaultOLD
+Found new resource esx_identity in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_identity
+Found new resource esx_ladderhud in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_ladderhud
+Found new resource esx_extraitems in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_extraitems
+Found new resource esx_animations in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_animations
+Found new resource ply_hangers in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/ply_hangers
+Found new resource esx-kr-vehicle-push in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx-kr-vehicle-push
+Found new resource esx_jobs in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_jobs
+Found new resource esx_menu_dialog in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_menu_dialog
+Found new resource esx_drugs in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_drugs
+Found new resource esx_mechanicjob in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_mechanicjob
+Found new resource esx_menu_list in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_menu_list
+Found new resource esx_boat in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_boat
+Found new resource esx_custom_tattoos in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_custom_tattoos
+Found new resource esx_crafting in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_crafting
+Found new resource esx_billing in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_billing
+Found new resource esx_optionalneeds in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_optionalneeds
+Found new resource esx_skin in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_skin
+Found new resource skinchanger in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/skinchanger
+Found new resource esx_map in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_map
+Found new resource esx_vehicleshopvip in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_vehicleshopvip
+Found new resource esx_clotheshop in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_clotheshop
+Found new resource esx_sit in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_sit
+Found new resource esx_datastore in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_datastore
+Found new resource instance in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/instance
+Found new resource esx_society in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_society
+Found new resource esx_doorlock in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_doorlock
+Found new resource esx_duty in /home/ogp_agent/OGP_User_Files/FiveM/resources//[esx]/esx_duty
+Creating script environments for sessionmanager
+Started resource sessionmanager
+No such config file: permissions.cfg
+Creating script environments for mapmanager
+Started resource mapmanager
+Creating script environments for chat
+Started resource chat
+Started resource chat-theme-civlifechat
+Creating script environments for RPChat-master
+Started resource RPChat-master
+Started resource spawnmanager
+Started gametype Freeroam
+Started resource fivem
+Creating script environments for hardcap
+Started resource hardcap
+Creating script environments for rconlog
+Started resource rconlog
+Started resource load7
+Creating script environments for vMenu
+Loaded vMenuServer.net, Version=3.0.4.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_632925993
+Instantiated instance of script GHMatti.Http.RequestInternal.
+Instantiated instance of script GHMatti.Http.Request.
+Instantiated instance of script vMenuServer.BanManager.
+[93m[vMenu] [WARNING] vMenu is set up to ignore permissions!
+If you did this on purpose then you can ignore this warning.
+If you did not set this on purpose, then you must have made a mistake while setting up vMenu.
+Please read the vMenu documentation ([36mhttps://docs.vespura.com/vmenu[93m).
+Most likely you are not executing the permissions.cfg (correctly).[0m
+Instantiated instance of script vMenuServer.MainServer.
+Instantiated instance of script vMenuServer.UpdateChecker.
+Started resource vMenu
+Creating script environments for locksystem
+Started resource locksystem
+Creating script environments for deleteveh
+Started resource deleteveh
+Creating script environments for ft_libs
+Started resource ft_libs
+Started resource NativeUI
+Started resource eup-stream
+Started resource eup-ui
+Creating script environments for cron
+Started resource cron
+Creating script environments for suptime
+Started resource suptime
+Started resource waypoint
+Started resource watermark
+Started resource pausemenu
+Started resource object-loader
+Creating script environments for object-teleports
+Started resource object-teleports
+Creating script environments for mysql-async
+Started resource mysql-async
+Creating script environments for essentialmode
+Loaded SQLite.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_884274974
+Instantiated instance of script SQLite.Main.
+Started resource essentialmode
+Creating script environments for esplugin_mysql
+Started resource esplugin_mysql
+Creating script environments for async
+Started resource async
+Creating script environments for es_extended
+Started resource es_extended
+Creating script environments for trew_hud_ui
+Started resource trew_hud_ui
+Creating script environments for vrp_legacyfuel
+Failed to load script @vrp/lib/utils.lua.
+Error loading script server.lua in resource vrp_legacyfuel: @vrp_legacyfuel/server.lua:1: attempt to call a nil value (global 'module')
+stack traceback:
+        @vrp_legacyfuel/server.lua:1: in main chunk
+Failed to load script server.lua.
+Started resource vrp_legacyfuel
+Creating script environments for es_admin2
+Started resource es_admin2
+Started resource coloredhud
+Creating script environments for esx_identity
+Started resource esx_identity
+Creating script environments for pk_propiedades
+Started resource pk_propiedades
+[93mCouldn't find resource puntos-casa.[0m
+Started resource casas
+Started resource motel8bynewb
+Creating script environments for program-casino
+Started resource program-casino
+Creating script environments for program-blackjack
+Started resource program-blackjack
+Creating script environments for slotmachine_1
+Started resource slotmachine_1
+Creating script environments for SmartTrafficLights
+Started resource SmartTrafficLights
+Creating script environments for me-do
+Started resource me-do
+Started resource time_location
+Started resource JF_SeatShuffle
+Started resource peds
+Started resource WeaponOnBack
+Creating script environments for el_business
+Started resource el_business
+Started resource mythic_notify
+Creating script environments for sawu_hookers
+Started resource sawu_hookers
+Started resource radio
+Started resource vdk_call
+Creating script environments for esx_addons_gcphone
+Started resource esx_addons_gcphone
+Creating script environments for gcphone
+Started resource gcphone
+Creating script environments for es_carwash
+Started resource es_carwash
+Creating script environments for esx_gym
+Started resource esx_gym
+Started resource radiant_animations
+Creating script environments for afkkick
+Started resource afkkick
+Creating script environments for esx_vangelico_robbery
+Started resource esx_vangelico_robbery
+Creating script environments for esx_carthief
+Started resource esx_carthief
+Started resource pNotify
+Started resource zone
+Creating script environments for esx_service
+Started resource esx_service
+Creating script environments for esx_documents
+Started resource esx_documents
+Started resource esx_voice
+Started resource esx_map
+Creating script environments for esx_weaponshop
+Started resource esx_weaponshop
+Creating script environments for esx_shops
+Started resource esx_shops
+Creating script environments for calmai
+CalmAI cargado. 
+Started resource calmai
+Creating script environments for esx_status
+Started resource esx_status
+Creating script environments for esx_basicneeds
+Started resource esx_basicneeds
+Started resource allcity_deadscreen
+Creating script environments for new_banking
+Started resource new_banking
+Started resource esx_menu_default
+Started resource esx_menu_list
+Started resource esx_menu_dialog
+Creating script environments for esx_optionalneeds
+Started resource esx_optionalneeds
+Creating script environments for instance
+Started resource instance
+Creating script environments for esx_billing
+Started resource esx_billing
+Creating script environments for esx_addonaccount
+Started resource esx_addonaccount
+Creating script environments for esx_addoninventory
+Started resource esx_addoninventory
+Creating script environments for esx_trunk
+Started resource esx_trunk
+Creating script environments for esx_society
+Started resource esx_society
+Creating script environments for esx_datastore
+Started resource esx_datastore
+Creating script environments for esx_migrate
+Started resource esx_migrate
+Creating script environments for esx_vehicleshop
+= INFO = Enregistrement du telephone cardealer => Dealer customers
+Started resource esx_vehicleshop
+Creating script environments for esx_vehicleshopvip
+= INFO = Enregistrement du telephone cardealer => Clientes revendedores
+Started resource esx_vehicleshopvip
+Creating script environments for esx_boatshop
+Started resource esx_boatshop
+Creating script environments for esx_boat
+Started resource esx_boat
+Creating script environments for esx_lscustom
+Started resource esx_lscustom
+Started resource skinchanger
+Creating script environments for esx_skin
+Started resource esx_skin
+Creating script environments for esx_clotheshop
+Started resource esx_clotheshop
+Creating script environments for esx_license
+Started resource esx_license
+Creating script environments for esx_dmvschool
+Started resource esx_dmvschool
+Creating script environments for esx_sit
+Started resource esx_sit
+Creating script environments for esx_barbershop
+Started resource esx_barbershop
+Creating script environments for esx_property
+Started resource esx_property
+Creating script environments for esx_drp_garage
+Started resource esx_drp_garage
+Creating script environments for esx_criminalrecords
+Started resource esx_criminalrecords
+Creating script environments for esx_celldoors
+Started resource esx_celldoors
+Creating script environments for esx_doorstrans
+Started resource esx_doorstrans
+Creating script environments for esx_drugs
+Started resource esx_drugs
+Creating script environments for esx_selldrugs
+Started resource esx_selldrugs
+Creating script environments for esx_crafting
+Started resource esx_crafting
+Creating script environments for esx_hospital
+Started resource esx_hospital
+Creating script environments for esx_borrmaskin
+Started resource esx_borrmaskin
+Creating script environments for esx_holdupbank
+Started resource esx_holdupbank
+Creating script environments for esx_blackmoney
+Started resource esx_blackmoney
+Creating script environments for esx-carrental
+Started resource esx-carrental
+Creating script environments for esx_hunting
+Started resource esx_hunting
+Creating script environments for esx_lapdance
+Started resource esx_lapdance
+Started resource esx_alpr
+Creating script environments for esx_jb_realtimejailer
+Started resource esx_jb_realtimejailer
+Creating script environments for esx_holdup
+Started resource esx_holdup
+Started resource esx_cruisecontrol
+Started resource esx_animations
+Creating script environments for esx_jobs
+Started resource esx_jobs
+Creating script environments for esx_joblisting
+Started resource esx_joblisting
+Creating script environments for esx_ambulancejob
+= INFO = Enregistrement du telephone ambulance => Alerta de ambulancia
+Started resource esx_ambulancejob
+Creating script environments for esx_policejob
+= INFO = Enregistrement du telephone police => Alerta policia
+Started resource esx_policejob
+Creating script environments for esx_mechanicjob
+= INFO = Enregistrement du telephone mechanic => Customizar el mecánico
+Started resource esx_mechanicjob
+Creating script environments for esx_tattoos
+Started resource esx_tattoos
+Started resource esx_custom_tattoos
+Creating script environments for esx_ktackle
+Started resource esx_ktackle
+Creating script environments for esx_scoreboard
+Started resource esx_scoreboard
+Creating script environments for realisticvehiclefailure
+Started resource realisticvehiclefailure
+Creating script environments for replyandreport
+Started resource replyandreport
+Started resource fingerpoint
+Creating script environments for esx_taxijob
+= INFO = Enregistrement du telephone taxi => Taxi Client
+Started resource esx_taxijob
+Creating script environments for enior_vendercoche
+Started resource enior_vendercoche
+Started resource bob74_ipl
+Creating script environments for esx_nightclub
+Started resource esx_nightclub
+Creating script environments for esx_east
+Started resource esx_east
+Creating script environments for esx_duty
+Started resource esx_duty
+Creating script environments for noplayerblips
+Started resource noplayerblips
+Started resource crouch
+Creating script environments for jailer
+Started resource jailer
+Started resource idabove
+Started resource shield
+Creating script environments for BlipsBuilder
+[BlipsBuilder] Successfully loaded: 8 blip(s).
+Started resource BlipsBuilder
+Creating script environments for vehicle-control
+Started resource vehicle-control
+Creating script environments for blurr_shotsfired
+Started resource blurr_shotsfired
+Creating script environments for esx_accessories
+Started resource esx_accessories
+Creating script environments for lux_vehcontrol
+Started resource lux_vehcontrol
+Creating script environments for esx_planting
+Started resource esx_planting
+Started resource radialmenu
+Started resource esx-kr-vehicle-push
+Started resource core_hideintrunk
+Started resource qalle-wheelchair
+Creating script environments for el_daily_rewards
+Started resource el_daily_rewards
+Creating script environments for CarryPeople
+Started resource CarryPeople
+Started resource fd_maps
+Started resource Dealership
+Started resource pugslegion
+Started resource lafa2k_yakuza
+Started resource seatbeltIndicator
+Started resource traffic_density
+Started resource texturaconcesio
+Argument count mismatch (passed 2, wanted 3)
+Argument count mismatch (passed 2, wanted 3)
+Argument count mismatch (passed 2, wanted 3)
+Authenticating server license key...
+Server license key authentication succeeded. Welcome!
+cfx> Sending heartbeat to live-internal.fivem.net:30110
+Started map fivem-map-hipster
+Started resource fivem-map-hipster
+Developed By Manu!
+Performing version check against: https://api.kanersps.pw/em/version?version=6.2.2&uuid=cb289647-892d-4fbc-48d9-e557c49c8502
+
+server thread hitch warning: timer interval of 669 milliseconds
+esx_business: Syncing businesses from database
+
+[EssentialMode] Current version: 6.2.2
+[EssentialMode] Updater version: 6.2.2
+
+[EssentialMode] Everything is nice and updated!
+
+[91mAdvertisement: [0mWant to have EssentialMode pre-installed on a good and affordable server host? Go to the following link: https://zap-hosting.com/EssentialMode
+
+[36m[vMenu] Checking for updates.[0m
+[93m[vMenu] [WARNING] [0mAn error occurred while checking for the latest version. This is not a problem, vMenu will still work correctly. Please check your version manually.
+[93m[vMenu] [WARNING] [0mError details: .
+[31m[ERROR] connect ETIMEDOUT[0m
+[31m[ERROR] [MySQL] [esx_datastore] An error happens on MySQL for query "SELECT * FROM datastore": connect ETIMEDOUT[0m
+[31m[ERROR] [MySQL] [esx_property] An error happens on MySQL for query "SELECT * FROM properties": Handshake inactivity timeout[0m
+[31m[ERROR] [MySQL] [esx_trunk] An error happens on MySQL for query "SELECT * FROM trunk_inventory": Handshake inactivity timeout[0m
+[31m[ERROR] [MySQL] [esx_trunk] An error happens on MySQL for query "DELETE FROM `trunk_inventory` WHERE `owned` = 0": Handshake inactivity timeout[0m
+[31m[ERROR] [MySQL] [esx_drp_garage] An error happens on MySQL for query "UPDATE owned_vehicles SET state=true WHERE state=false": Handshake inactivity timeout[0m
+[31m[ERROR] [MySQL] [esx_addoninventory] An error happens on MySQL for query "SELECT * FROM items": Handshake inactivity timeout[0m
+[31m[ERROR] [MySQL] [esx_addonaccount] An error happens on MySQL for query "SELECT * FROM addon_account": Handshake inactivity timeout[0m
+[31m[ERROR] [MySQL] [esx_society] An error happens on MySQL for query "SELECT * FROM jobs": Handshake inactivity timeout[0m
+[31m[ERROR] [MySQL] [pk_propiedades] An error happens on MySQL for query "SELECT * FROM pk_inventariocasas": Handshake inactivity timeout[0m
+Error running call reference function for resource esx_property: citizen:/scripting/lua/scheduler.lua:355: @esx_property/server/main.lua:98: attempt to get length of a nil value (local 'properties')
+stack traceback:
+        @esx_property/server/main.lua:98: in upvalue 'ref'
+        citizen:/scripting/lua/scheduler.lua:341: in function <citizen:/scripting/lua/scheduler.lua:340>
+        [C]: in function 'xpcall'
+        citizen:/scripting/lua/scheduler.lua:340: in function <citizen:/scripting/lua/scheduler.lua:339>
+stack traceback:
+        [C]: in function 'error'
+        citizen:/scripting/lua/scheduler.lua:355: in function <citizen:/scripting/lua/scheduler.lua:324>
+[91mError: Unhandled error in timer: Error: BUFFER_SHORTAGE
+Error: BUFFER_SHORTAGE
+    at n.e [as reserve] (citizen:/scripting/v8/msgpack.js:29:12766)
+    at h (citizen:/scripting/v8/msgpack.js:29:15761)
+    at n.r [as decode] (citizen:/scripting/v8/msgpack.js:29:13908)
+    at n.fetch (citizen:/scripting/v8/msgpack.js:29:6972)
+    at n.u [as read] (citizen:/scripting/v8/msgpack.js:29:12076)
+    at Object.n [as decode] (citizen:/scripting/v8/msgpack.js:29:7097)
+    at unpack (citizen:/scripting/v8/main.js:20:33)
+    at citizen:/scripting/v8/main.js:51:20
+    at setImmediate (mysql-async.js:14431:7)
+    at Object.callback (citizen:/scripting/v8/timer.js:96:21)[0m
+Error resuming coroutine: @esx_addonaccount/server/main.lua:12: attempt to get length of a nil value (local 'result')
+stack traceback:
+        @esx_addonaccount/server/main.lua:12: in upvalue 'handler'
+        citizen:/scripting/lua/scheduler.lua:169: in function <citizen:/scripting/lua/scheduler.lua:168>
+Error resuming coroutine: @esx_society/server/main.lua:18: attempt to get length of a nil value (local 'result')
+stack traceback:
+        @esx_society/server/main.lua:18: in upvalue 'handler'
+        citizen:/scripting/lua/scheduler.lua:169: in function <citizen:/scripting/lua/scheduler.lua:168>
+Error resuming coroutine: @pk_propiedades/server/armario.lua:16: attempt to get length of a nil value (local 'result')
+stack traceback:
+        @pk_propiedades/server/armario.lua:16: in upvalue 'handler'
+        citizen:/scripting/lua/scheduler.lua:169: in function <citizen:/scripting/lua/scheduler.lua:168>
+Error resuming coroutine: @esx_datastore/server/main.lua:14: attempt to get length of a nil value (local 'result')
+stack traceback:
+        @esx_datastore/server/main.lua:14: in upvalue 'handler'
+        citizen:/scripting/lua/scheduler.lua:169: in function <citizen:/scripting/lua/scheduler.lua:168>
+Error resuming coroutine: @esx_trunk/server/trunk.lua:15: attempt to get length of a nil value (local 'result')
+stack traceback:
+        @esx_trunk/server/trunk.lua:15: in upvalue 'handler'
+        citizen:/scripting/lua/scheduler.lua:169: in function <citizen:/scripting/lua/scheduler.lua:168>
+Error resuming coroutine: @esx_addoninventory/server/main.lua:14: attempt to get length of a nil value (local 'items')
+stack traceback:
+        @esx_addoninventory/server/main.lua:14: in upvalue 'handler'
+        citizen:/scripting/lua/scheduler.lua:169: in function <citizen:/scripting/lua/scheduler.lua:168>
+esx_shops: invalid item "croquettes" found!
+esx_business: Synced 2 business(es) from database
+es_extended: ignoring job "cardealer" due to missing job grades!
+Connecting: 💎 𝕽𝖝𝕿𝖗 💎
+Sending heartbeat to live-internal.fivem.net:30110
+Error resuming coroutine: @esx_addonaccount/server/main.lua:61: attempt to get length of a nil value (field '?')
+stack traceback:
+        @esx_addonaccount/server/main.lua:61: in function 'GetAccount'
+        @esx_addonaccount/server/main.lua:73: in upvalue 'handler'
+        citizen:/scripting/lua/scheduler.lua:169: in function <citizen:/scripting/lua/scheduler.lua:168>
+[31m[ERROR] [MySQL] [esx_tattoos] An error happens on MySQL for query "INSERT INTO playersTattoos (identifier, tattoos) VALUES ('steam:110000115d2d091', '[]')": ER_DUP_ENTRY: Duplicate entry '0' for key 'PRIMARY'[0m
+Successfully Set Identity For steam:110000115d2d091
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110

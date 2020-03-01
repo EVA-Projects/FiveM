@@ -1,0 +1,38 @@
+Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+Creating script environments for _cfx_internal
+Found new resource fivem-ui in /home/ogp_agent/OGP_User_Files/FiveM/resources//fivem-ui
+Found new resource fivem in /home/ogp_agent/OGP_User_Files/FiveM/resources//fivem
+Found new resource fivem-awesome1501 in /home/ogp_agent/OGP_User_Files/FiveM/resources//fivem-awesome1501
+Found new resource dix-micro in /home/ogp_agent/OGP_User_Files/FiveM/resources//dix-micro
+Found new resource t-loadingscreen in /home/ogp_agent/OGP_User_Files/FiveM/resources//t-loadingscreen
+Found new resource fivem-toggleid in /home/ogp_agent/OGP_User_Files/FiveM/resources//fivem-toggleid
+Found new resource fivem-map-skater in /home/ogp_agent/OGP_User_Files/FiveM/resources//fivem-map-skater
+Found new resource fivem-map-hipster in /home/ogp_agent/OGP_User_Files/FiveM/resources//fivem-map-hipster
+Found new resource obituary-deaths in /home/ogp_agent/OGP_User_Files/FiveM/resources//[gameplay]/obituary-deaths
+Found new resource playernames in /home/ogp_agent/OGP_User_Files/FiveM/resources//[gameplay]/playernames
+Found new resource obituary in /home/ogp_agent/OGP_User_Files/FiveM/resources//[gameplay]/obituary
+Found new resource channelfeed in /home/ogp_agent/OGP_User_Files/FiveM/resources//[gameplay]/channelfeed
+Found new resource irc in /home/ogp_agent/OGP_User_Files/FiveM/resources//[gameplay]/irc
+Found new resource sessionmanager in /home/ogp_agent/OGP_User_Files/FiveM/resources//[system]/sessionmanager
+Found new resource chat-theme-gtao in /home/ogp_agent/OGP_User_Files/FiveM/resources//[system]/chat-theme-gtao
+Found new resource baseevents in /home/ogp_agent/OGP_User_Files/FiveM/resources//[system]/baseevents
+Found new resource chat in /home/ogp_agent/OGP_User_Files/FiveM/resources//[system]/chat
+Found new resource rconlog in /home/ogp_agent/OGP_User_Files/FiveM/resources//[system]/rconlog
+Found new resource scoreboard in /home/ogp_agent/OGP_User_Files/FiveM/resources//[system]/scoreboard
+Found new resource hardcap in /home/ogp_agent/OGP_User_Files/FiveM/resources//[system]/hardcap
+Found new resource spawnmanager in /home/ogp_agent/OGP_User_Files/FiveM/resources//[system]/spawnmanager
+Found new resource race in /home/ogp_agent/OGP_User_Files/FiveM/resources//[gamemodes]/race
+Found new resource race-test in /home/ogp_agent/OGP_User_Files/FiveM/resources//[gamemodes]/race-test
+Found new resource keks in /home/ogp_agent/OGP_User_Files/FiveM/resources//[test]/keks
+Found new resource betaguns in /home/ogp_agent/OGP_User_Files/FiveM/resources//[test]/betaguns
+Found new resource gameInit in /home/ogp_agent/OGP_User_Files/FiveM/resources//[test]/gameInit
+Found new resource mapmanager in /home/ogp_agent/OGP_User_Files/FiveM/resources//[managers]/mapmanager
+Found new resource yarn in /home/ogp_agent/OGP_User_Files/FiveM/resources//[system]/[builders]/yarn
+Found new resource webpack in /home/ogp_agent/OGP_User_Files/FiveM/resources//[system]/[builders]/webpack
+Creating script environments for sessionmanager
+Started resource sessionmanager
+Could not bind on 81.39.111.0:27015 - is this address valid and not already in use?
+Authenticating server license key...
+Server license key authentication succeeded. Welcome!
+cfx> Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110

@@ -1,0 +1,17 @@
+Locales['en'] = {
+  ['not_enough_money']    = 'no tienes suficiente dinero',
+  ['boat_belongs']        = 'un barco con la matricula ~y~%s~s~ ahora te pertenece ~b~ati~s~',
+  ['generic_shopitem']    = '€%s',
+  ['boat_dealer']         = 'Concesionario | Barcos',
+  ['buy_boat_shop']       = 'quieres comprar %s por €%s?',
+  ['buy_license']         = 'Comprar Licencia',
+  ['no']                  = 'no',
+  ['yes']                 = 'si',
+  ['boat_purchased']      = 'has comprado un barco',
+  ['shop_menu']           = 'pulsa ~INPUT_CONTEXT~ para acceder al menu',
+  ['shop_awaiting_model'] = 'el vehiculo se esta ~g~DESCARGANDO & CARGANDO~s~ porfavor espera',
+  ['sell_menu']           = 'pulsa ~INPUT_CONTEXT~ para vender tu ~y~%s~s~ por ~g~€%s~s~',
+  ['license_missing']     = 'no tienes una licencia de barco!',
+  ['boat_sold_for']       = '~b~%s~s~ ha sido ~y~vendido~s~ por ~g~€%s~s~',
+  ['not_yours']           = 'este vehiculo no te pertenece ati',
+}

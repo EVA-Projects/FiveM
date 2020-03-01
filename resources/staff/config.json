@@ -1,0 +1,14 @@
+[  
+    {  
+        "url": "https://fivempanel.co.uk/",
+        "communityid": "15CFF17C0E8A30B1CBA1D79B8E28C95D",
+        "prefix": "^8[Staff Panel]",
+        "ban_message": "🔴 Has sido baneado! 🔴\n⚫ Baneado por: {ban_staff} \n⚫ Razón del ban: {ban_reason} \n⚫ Ban Issued: {ban_issued} \n⚫ Baneado hasta: {ban_expires}",
+        "chat_proccessing": true,
+        "mintrustscore": 0,
+        "mintrustscore_message": "🔴 Trust-Score Too Low! 🔴",
+        "server_logs": true,
+        "ip_address": true,
+        "debug": false
+    }
+]

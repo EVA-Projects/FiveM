@@ -1,0 +1,25 @@
+Locales['en'] = {
+    ['you_paid'] = 'Has pagado ~g~$%s~s~',
+    ['garage'] = 'Garaje',
+    ['notif_car_impounded'] = 'Garaje: <br /> Tu coche a sido embargado!',
+    ['status_in_Garaje'] = '%s: <font color="green">Dentro del Garaje</font>',
+    ['status_impounded'] = '%s: <font color="red">Embargado</font>',
+    ['list_vehicles'] = 'Lista de vehiculos',
+    ['stock_vehicle'] = 'Almacenar un vehiculo',
+    ['return_vehicle'] = 'Recojer el coche embargado ($%s)',
+    ['reparation'] = 'Tu vehiculo esta dañado!',
+    ['reparation_yes'] = 'Reparar aqui ($%s)',
+    ['reparation_no'] = 'No, gracias!',
+    ['reparation_no_notif'] = 'Para almacenar el vehículo, debe estar en perfecto estado.',
+    ['ranger'] = 'Garaje: <br /> ¡Su automóvil ha sido almacenado en el garaje!',
+    ['stockv_not_owned'] = 'Garaje: <br /> ¡Este vehículo no es tuyo!',
+    ['stockv_not_in_veh'] = 'Garaje: <br /> ¡Necesitas estar en un vehículo para almacenarlo!',
+    ['spawn'] = 'Pulsa ~INPUT_PICKUP~ para sacar un vehiculo',
+    ['delete'] = 'Pulsa  ~INPUT_PICKUP~ para guardar un vehiculo',
+    ['pound_action_menu'] = 'Pulsa ~INPUT_PICKUP~ para ver los vehiculos embargados',
+    ['not_enough_money'] = 'No tienes suficiente dinero',
+    ['impound_list'] = '%s: Devolver',
+    ['impound_yard'] = 'Vehiculos Embargados',
+    ['impound_not_enough_money'] = 'Garaje: <br /> No tienes suficiente dinero'
+
+}
