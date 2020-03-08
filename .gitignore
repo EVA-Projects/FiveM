@@ -1,2 +1,12 @@
 \[cochesreales\]
 \[cars\]
+citizen
+cache
+*.dll
+*.exe
+*.dat
+components.json
+run.cmd
+runserver.bat
+server-tls.crt
+server-tls.key
