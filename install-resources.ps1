@@ -1,13 +1,13 @@
 ﻿# Script configuration
-$url = "https://eva-projects.com/index.php/s/EfqzmiwegbljzP4/download"
-$output = "windows-install"
-$zipFolder = ".\$($output)\Windows\*"
-$directoy = "."
+$url = "https://eva-projects.com/index.php/s/AFAKxZCRrKCErfC/download"
+$output = "resources-install"
+$zipFolder = ".\$($output)\Resources\*"
+$directoy = ".\resources"
 
 # Script engage
 $ErrorActionPreference = "Stop"
 $script_start_time = Get-Date
-Write-Host "Instalando FiveM verisón de windows $($script_start_time)"
+Write-Host "Instalando Recursos pesados $($script_start_time)"
 
 #Download
 $wc = New-Object System.Net.WebClient  
@@ -35,4 +35,4 @@ $end_time = Get-Date
 # Script ending
 $script_end_time = Get-Date
 Write-Output "Ficheros listos $($end_time)"
-Write-Host "Instalación FiveM verisón de windows finalizada con éxito $($script_end_time)"
+Write-Host "Instalación de recursos pesados finalizada con éxito $($script_end_time)"
